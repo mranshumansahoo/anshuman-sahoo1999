@@ -1,7 +1,7 @@
-
-
-<h1 align="center">Hello World! 👋, I'm Anshuman Sahoo</h1>
+<img width="100%" src="https://github.com/anshuman-sahoo1999/anshuman-sahoo1999/blob/master/assets/profile.png" alt="cover" />
+<h1 align="center">Holla, Fellow Developers! 👋, I'm Anshuman Sahoo</h1>
 <h3 align="center">A Recent Graduate with Computer Science from भारत</h3>
+I'm Anshuman from India(भारत), and I am recent graduate with Honours degree from Biju Patnaik University of Technology(BPUT) in Computer Science and Engineering. I really enjoy learning languages and frameworks like React and React native, as well as on research fields such as Artificial Intelligence, Cyber security and Machine learning. 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anshuman-sahoo1999&label=Profile%20views&color=0e75b6&style=flat" alt="anshuman-sahoo1999" /> </p>
 
